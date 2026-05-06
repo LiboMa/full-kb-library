@@ -16,6 +16,17 @@ docs/
 
 ## 🗂️ 文档索引
 
+### 技术学习 / Hermes Agents
+
+| 文档 | 内容 | 状态 |
+|------|------|:---:|
+| [三部曲大纲](docs/技术学习/hermes-agents/00-三部曲大纲.md) | 《从零到一精通 Hermes Agents》完整课程规划 | ✅ |
+| 第一部曲：启蒙与破冰 | 概念 + Hello World (5min Agent) | 📝 待写 |
+| 第二部曲：匠心与构建 | Multi-Tool + GOAP + Multi-Agent PoC | 📝 待写 |
+| 第三部曲：问道与深潜 | 微调 + 架构哲学 + 性能调优 | 📝 待写 |
+
+---
+
 ### 投资教育 / 股票交易 — Adam Khoo 系列
 
 | # | 文档 | 主题 | Ground Truth | 状态 |
@@ -73,6 +84,10 @@ docs/
 - `#fundamental-analysis` — 基本面分析
 - `#index-investing` — 指数投资
 - `#macro` — 宏观经济
+- `#hermes` — Hermes 模型系列
+- `#agents` — AI Agent 构建
+- `#function-calling` — 函数调用
+- `#llm` — 大语言模型
 
 ---
 
