@@ -35,7 +35,11 @@ docs/
 
 | 文档 | 内容 | 状态 |
 |------|------|:---:|
-| [三段式入门到深入教程](docs/技术学习/hermes-agent-framework/01-三段式入门到深入教程.md) | 入门（10 分钟上手）+ 进阶（生产力工具）+ 深入（源码级机制），v0.11.0 | ✅ |
+| [📖 目录大纲 / README](docs/技术学习/hermes-agent-framework/README.md) | 三段式教程索引 + 知识地图 + 写作计划 | ✅ |
+| [Part 1 · 入门篇](docs/技术学习/hermes-agent-framework/part-1-入门篇.md) | 十分钟上手：安装、配置、三种用法、斜杠命令、厂商选型、8 大错误速查 | ✅ |
+| Part 2 · 进阶篇 | Skills / Memory / Cron / Gateway / delegate_task / MCP | ⏳ 待写 |
+| Part 3 · 源码深入 | Agent 循环、Provider 路由、上下文压缩、插件、Gateway 架构 | ⏳ 待写 |
+| [合订版（原始稿）](docs/技术学习/hermes-agent-framework/01-三段式入门到深入教程.md) | 三段合一的完整文件，可作速查 | ✅ |
 
 ---
 
