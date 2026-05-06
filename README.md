@@ -16,7 +16,13 @@ docs/
 
 ## 🗂️ 文档索引
 
-### 技术学习 / Hermes Agents
+### 技术学习 / Hermes 系列
+
+> ⚠️ **两个方向请勿混淆**（都出自 Nous Research，但目标不同）：
+> - **`hermes-agents/`** — 聚焦 **Hermes 3 模型 + Function Calling**（模型层、ChatML、GOAP、微调）
+> - **`hermes-agent-framework/`** — 聚焦 **Hermes Agent CLI/Gateway 框架**（应用层运行时、工具系统、跨平台网关）
+
+#### A. Hermes 3 模型与 Function Calling（模型层）
 
 | 文档 | 内容 | 状态 |
 |------|------|:---:|
@@ -24,6 +30,12 @@ docs/
 | 第一部曲：启蒙与破冰 | 概念 + Hello World (5min Agent) | 📝 待写 |
 | 第二部曲：匠心与构建 | Multi-Tool + GOAP + Multi-Agent PoC | 📝 待写 |
 | 第三部曲：问道与深潜 | 微调 + 架构哲学 + 性能调优 | 📝 待写 |
+
+#### B. Hermes Agent 框架（CLI / Gateway 运行时）
+
+| 文档 | 内容 | 状态 |
+|------|------|:---:|
+| [三段式入门到深入教程](docs/技术学习/hermes-agent-framework/01-三段式入门到深入教程.md) | 入门（10 分钟上手）+ 进阶（生产力工具）+ 深入（源码级机制），v0.11.0 | ✅ |
 
 ---
 
@@ -101,4 +113,4 @@ docs/
 
 ---
 
-*Last updated: 2026-05-06*
+*Last updated: 2026-05-06 — 新增 Hermes Agent 框架三段式教程*
