@@ -6,8 +6,8 @@
 Ground Truth: ✅ 基于 environments/, hermes_state.py, gateway/, tools/registry.py, hermes_cli/ 等子系统源码
 主题: Hermes Agent 源码深入（下半篇）—— 环境、存储与扩展
 系列: 三段式教程 Part 3B / 3
-前置: part-3a-核心执行路径.md
-后续: appendix-场景速查.md
+前置: part-3a-架构与主循环.md
+后续: appendix-最佳应用场景与速查表.md
 ---
 
 # Part 3B：环境、存储与扩展
@@ -557,9 +557,8 @@ echo 'OPENROUTER_API_KEY=***' >> ~/.hermes/.env
 |---|---|---|
 | Part 1 入门篇 | `part-1-入门篇.md` | 十分钟上手 |
 | Part 2 进阶篇 | `part-2-进阶篇.md` | 日常使用、多平台 |
-| Part 3A 核心执行路径 | `part-3a-核心执行路径.md` | CLI / Agent Loop / Registry / Adapter |
+| Part 3A 架构与主循环 | `part-3a-架构与主循环.md` | CLI / Agent Loop / Registry / Adapter |
 | **Part 3B 环境存储与扩展** | **本篇** | Environment / SQLite / Gateway / 扩展点 |
-| 附录 A 场景速查 | `appendix-a-场景速查.md` | 按任务查操作 |
-| 附录 B 命令速查 | `appendix-b-命令速查.md` | 命令/环境变量/配置字段 |
+| 附录 A+B 场景与速查 | `appendix-最佳应用场景与速查表.md` | 12 场景 + CLI/配置/环境变量速查 |
 
 ---

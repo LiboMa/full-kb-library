@@ -22,24 +22,23 @@ docs/
 > - **`hermes-agents/`** — 聚焦 **Hermes 3 模型 + Function Calling**（模型层、ChatML、GOAP、微调）
 > - **`hermes-agent-framework/`** — 聚焦 **Hermes Agent CLI/Gateway 框架**（应用层运行时、工具系统、跨平台网关）
 
-#### A. Hermes 3 模型与 Function Calling（模型层）
+#### A. ~~Hermes 3 模型与 Function Calling（模型层）~~ 已归档
+
+> 原计划针对 Hermes 3 语言模型层写的三部曲，主角定位调整后统一聚焦 Agent 框架（见 B），本方向归档。
+> 目录 `docs/技术学习/hermes-agents/` 保留一个废弃声明文件作历史记录。
+
+#### B. Hermes Agent 框架（CLI / Gateway 运行时）✅ 全部完成
 
 | 文档 | 内容 | 状态 |
 |------|------|:---:|
-| [三部曲大纲](docs/技术学习/hermes-agents/00-三部曲大纲.md) | 《从零到一精通 Hermes Agents》完整课程规划 | ✅ |
-| 第一部曲：启蒙与破冰 | 概念 + Hello World (5min Agent) | 📝 待写 |
-| 第二部曲：匠心与构建 | Multi-Tool + GOAP + Multi-Agent PoC | 📝 待写 |
-| 第三部曲：问道与深潜 | 微调 + 架构哲学 + 性能调优 | 📝 待写 |
-
-#### B. Hermes Agent 框架（CLI / Gateway 运行时）
-
-| 文档 | 内容 | 状态 |
-|------|------|:---:|
-| [📖 目录大纲 / README](docs/技术学习/hermes-agent-framework/README.md) | 三段式教程索引 + 知识地图 + 写作计划 | ✅ |
+| [🗺️ 从这里开始 / 学习路径](docs/技术学习/hermes-agent-framework/00-从这里开始.md) | 按画像推荐阅读路径 + 全文件一览 | ✅ |
+| [📖 目录 README](docs/技术学习/hermes-agent-framework/README.md) | 三部曲索引 + 知识地图 | ✅ |
 | [Part 1 · 入门篇](docs/技术学习/hermes-agent-framework/part-1-入门篇.md) | 十分钟上手：安装、配置、三种用法、斜杠命令、厂商选型、8 大错误速查 | ✅ |
-| Part 2 · 进阶篇 | Skills / Memory / Cron / Gateway / delegate_task / MCP | ⏳ 待写 |
-| Part 3 · 源码深入 | Agent 循环、Provider 路由、上下文压缩、插件、Gateway 架构 | ⏳ 待写 |
-| [合订版（原始稿）](docs/技术学习/hermes-agent-framework/01-三段式入门到深入教程.md) | 三段合一的完整文件，可作速查 | ✅ |
+| [Part 2 · 进阶篇](docs/技术学习/hermes-agent-framework/part-2-进阶篇.md) | Tools / Skills / Memory / Sessions / Cron / Gateway / delegate_task / MCP / Voice | ✅ |
+| [Part 3A · 架构与主循环](docs/技术学习/hermes-agent-framework/part-3a-架构与主循环.md) | 总体架构 + Agent Loop + Prompt 装配 + 压缩+Cache + Provider 适配 + Tools Runtime | ✅ |
+| [Part 3B · 环境存储与扩展](docs/技术学习/hermes-agent-framework/part-3b-环境存储与扩展.md) | 5 种 Environment + SQLite/FTS5 + Gateway + 二次开发（加 tool/provider/adapter/CLI） | ✅ |
+| [附录 · 最佳应用场景与速查表](docs/技术学习/hermes-agent-framework/appendix-最佳应用场景与速查表.md) | 12 个场景（含配置片段）+ CLI/斜杠/配置/环境变量速查表 | ✅ |
+| [合订版（历史归档）](docs/技术学习/hermes-agent-framework/01-三段式入门到深入教程.md) | 早期合订稿，已被新版取代，保留作归档 | 📦 |
 
 ---
 
@@ -117,4 +116,4 @@ docs/
 
 ---
 
-*Last updated: 2026-05-06 — 新增 Hermes Agent 框架三段式教程*
+*Last updated: 2026-05-06 — Hermes Agent 框架三部曲全部完成（Part 1/2/3A/3B + 附录 A/B + 导航页）*

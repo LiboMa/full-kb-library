@@ -7,7 +7,7 @@ Ground Truth: ✅ 基于 website/docs/ 官方文档 136 章实读 + 源码交叉
 主题: Hermes Agent 进阶篇 —— 把它用成生产力
 系列: 三段式教程 Part 2 / 3
 前置: part-1-入门篇.md
-后续: part-3-源码深入.md（待续）
+后续: part-3a-架构与主循环.md
 ---
 
 # Hermes Agent 进阶篇：把它用成生产力
@@ -1182,7 +1182,8 @@ Hermes 展开后 inline 拼到你的消息末尾。
 
     上一篇： part-1-入门篇.md              （十分钟上手）
     本篇 ：  part-2-进阶篇.md              （把它用成生产力）← 你在这里
-    下一篇： part-3-源码深入.md            （架构、主循环、Provider 路由、插件）
+    下一篇： part-3a-架构与主循环.md        （架构、主循环、Provider、工具）
+    再下一篇：part-3b-环境存储与扩展.md     （Environment、Session、Gateway、插件）
 
 大纲：`docs/技术学习/hermes-agent-framework/README.md`
 
