@@ -8,6 +8,10 @@ Ground Truth: ✅ 基于 ~/.hermes/hermes-agent/ 本地源码 + setup/doctor 实
 系列: 三段式教程 Part 1 / 3
 前置: 无
 后续: part-2-进阶篇.md（待续）、part-3-源码深入.md（待续）
+对齐版本: Hermes Agent v0.11.0
+文档快照: 官方 llms-full.txt @ 2026-05-06（47166 行 / sha256 ae5fbc5e）
+复查建议: 每 3 个月或 Hermes 发布 minor 版本后
+维护者: 沙漠绿洲（Ma Ronnie）
 ---
 
 # Hermes Agent 入门篇：十分钟让它跑起来

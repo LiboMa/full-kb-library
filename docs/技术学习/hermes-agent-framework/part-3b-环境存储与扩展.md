@@ -8,6 +8,10 @@ Ground Truth: ✅ 基于 environments/, hermes_state.py, gateway/, tools/registr
 系列: 三段式教程 Part 3B / 3
 前置: part-3a-架构与主循环.md
 后续: appendix-最佳应用场景与速查表.md
+对齐版本: Hermes Agent v0.11.0
+文档快照: 官方 llms-full.txt @ 2026-05-06（47166 行 / sha256 ae5fbc5e）
+复查建议: 每 3 个月或 Hermes 发布 minor 版本后
+维护者: 沙漠绿洲（Ma Ronnie）
 ---
 
 # Part 3B：环境、存储与扩展

@@ -37,7 +37,8 @@ docs/
 | [Part 2 · 进阶篇](docs/技术学习/hermes-agent-framework/part-2-进阶篇.md) | Tools / Skills / Memory / Sessions / Cron / Gateway / delegate_task / MCP / Voice | ✅ |
 | [Part 3A · 架构与主循环](docs/技术学习/hermes-agent-framework/part-3a-架构与主循环.md) | 总体架构 + Agent Loop + Prompt 装配 + 压缩+Cache + Provider 适配 + Tools Runtime | ✅ |
 | [Part 3B · 环境存储与扩展](docs/技术学习/hermes-agent-framework/part-3b-环境存储与扩展.md) | 5 种 Environment + SQLite/FTS5 + Gateway + 二次开发（加 tool/provider/adapter/CLI） | ✅ |
-| [附录 · 最佳应用场景与速查表](docs/技术学习/hermes-agent-framework/appendix-最佳应用场景与速查表.md) | 12 个场景（含配置片段）+ CLI/斜杠/配置/环境变量速查表 | ✅ |
+| [附录 A+B · 最佳应用场景与速查表](docs/技术学习/hermes-agent-framework/appendix-最佳应用场景与速查表.md) | 12 个场景（含配置片段）+ CLI/斜杠/配置/环境变量速查表 | ✅ |
+| [附录 C · 横向对比](docs/技术学习/hermes-agent-framework/appendix-横向对比-claude-code-codex-opencode.md) | vs Claude Code / Codex CLI / opencode：18 维度矩阵 + 选型建议 | ✅ |
 | [合订版（历史归档）](docs/技术学习/hermes-agent-framework/01-三段式入门到深入教程.md) | 早期合订稿，已被新版取代，保留作归档 | 📦 |
 
 ---

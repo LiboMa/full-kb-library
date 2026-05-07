@@ -17,7 +17,8 @@
 | Part 2 | 进阶篇：把它用成生产力 | [part-2-进阶篇.md](./part-2-进阶篇.md) | 日常用户 |
 | Part 3A | 架构篇：总体架构与主循环 | [part-3a-架构与主循环.md](./part-3a-架构与主循环.md) | 想懂原理 |
 | Part 3B | 架构篇：环境存储与扩展 | [part-3b-环境存储与扩展.md](./part-3b-环境存储与扩展.md) | 想二次开发 |
-| 附录 | 最佳应用场景 12 例 + 速查表 | [appendix-最佳应用场景与速查表.md](./appendix-最佳应用场景与速查表.md) | 选型参考 |
+| 附录 A+B | 最佳应用场景 12 例 + 速查表 | [appendix-最佳应用场景与速查表.md](./appendix-最佳应用场景与速查表.md) | 选型参考 |
+| 附录 C | 横向对比：vs Claude Code / Codex CLI / opencode | [appendix-横向对比-claude-code-codex-opencode.md](./appendix-横向对比-claude-code-codex-opencode.md) | 工具选型 |
 | 归档 | 合订版（已被新版取代） | [01-三段式入门到深入教程.md](./01-三段式入门到深入教程.md) | 历史记录 |
 
 完整学习路径：小白 → 会用 → 进阶使用 → 懂架构 → 懂原理 → 选对场景。
